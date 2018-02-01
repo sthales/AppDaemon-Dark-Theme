@@ -96,6 +96,15 @@ sensor_state_text_style: "color: $gray_medium_dark"
 sensor_state_text_style: "color: $gray_medium_dark"
 alarm_panel_button_style: "color: $gray_medium_dark"
 sensor_state_text_style: "color: $gray_medium_dark"
+
+camera_title_style: "color: $gray_medium_dark"
+camera_widget_style: "color: $gray_medium_dark"
+camera_title_style: "color: $gray_medium_dark"
+camera_widget_style: "color: $gray_medium_dark"
+
+sensor_container_style: "color: $gray_medium_dark"
+sensor_state_text_style: "color: $gray_medium_dark"
+
 # Widget Default Definitions
 
 scene_icon_on: fa-square
